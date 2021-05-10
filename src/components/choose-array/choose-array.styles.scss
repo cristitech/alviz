@@ -1,0 +1,14 @@
+.choose-array-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .options-text-box {
+    padding: 15px;
+    font-size: 18pt;
+  }
+  .option-box {
+    padding: 5px;
+  }
+}

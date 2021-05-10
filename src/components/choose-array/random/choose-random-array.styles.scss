@@ -1,0 +1,17 @@
+.choose-random-array-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12pt;
+
+  .choose-random-settings-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    .settings-row {
+      text-align: right;
+      padding: 5px;
+    }
+  }
+}
